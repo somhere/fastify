@@ -1,0 +1,13 @@
+.vagrant/
+node_modules
+*.log
+logs/
+
+# Dependency directories
+node_modules/
+
+# Typescript v1 declaration files
+typings/
+
+# dotenv environment variables file
+.env
